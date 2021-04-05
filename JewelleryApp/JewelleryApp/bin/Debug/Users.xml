@@ -1,0 +1,12 @@
+﻿<Users>
+  <User>
+    <Username>Zeeshan</Username>
+    <Password>123</Password>
+    <Privileged>false</Privileged>
+  </User>
+  <User>
+    <Username>Adeeb</Username>
+    <Password>111</Password>
+    <Privileged>true</Privileged>
+  </User>
+</Users>
