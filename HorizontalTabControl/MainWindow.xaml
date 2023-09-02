@@ -1,0 +1,71 @@
+﻿<Window x:Class="HorizontalTabControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Tab="clr-namespace:HorizontalTabControl.Tab"     
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" x:Name="myWindow">
+    <Grid>
+
+        <Tab:HorizontalTab 
+            TabItems="{Binding TabItemsCollection}"
+            HorizontalTabSelectedItem="{Binding SelectedTabItem}" TabFrameColor="Orange">
+
+            <Tab:HorizontalTab.ItemTemplate>
+                <DataTemplate DataType="{x:Type TabItem}">
+                    <StackPanel>
+                        <TextBlock Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </Tab:HorizontalTab.ItemTemplate>
+
+            <Tab:HorizontalTab.ContentTemplate>
+                <DataTemplate>
+                </DataTemplate>
+            </Tab:HorizontalTab.ContentTemplate>
+
+            <Tab:HorizontalTab.Template>
+                <ControlTemplate TargetType="TabControl">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Left Scroll Button -->
+                        <RepeatButton Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" Content="&lt;"
+                          Command="{Binding ScrollLeftCommand}" Visibility="{Binding ScrollLeftButtonVisibility}" />
+
+                        <!-- ScrollViewer to host the tab strip -->
+                        <ScrollViewer Grid.Row="0" Grid.Column="1" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Disabled" 
+                                      Width="Auto" HorizontalAlignment="Stretch" Loaded="TabControlScroller_Loaded">
+                            <ScrollViewer.RenderTransform>
+                                <SkewTransform AngleX="20"/>
+                            </ScrollViewer.RenderTransform>
+                            <TabPanel Panel.ZIndex="2" IsItemsHost="True" KeyboardNavigation.TabIndex="1" />
+                        </ScrollViewer>
+
+                        <!-- Selected Content -->
+                        <Border Grid.Row="1" Grid.ColumnSpan="3" BorderThickness="4" Background="Transparent" Margin="0,-6,0,0"
+                                BorderBrush="{Binding TabFrameColor, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType={x:Type Tab:HorizontalTab}}}" >
+                            <ContentPresenter ContentSource="SelectedContent" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" />
+                        </Border>
+
+                        <!-- Right Scroll Button -->
+                        <RepeatButton Grid.Row="0" Grid.Column="2"  HorizontalAlignment="Right" Content="&gt;"
+                          Command="{Binding ScrollRightCommand}" Visibility="{Binding ScrollRightButtonVisibility}" />
+
+                    </Grid>
+                </ControlTemplate>
+            </Tab:HorizontalTab.Template>
+
+        </Tab:HorizontalTab>
+
+    </Grid>
+</Window>

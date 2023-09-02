@@ -1,0 +1,54 @@
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\bin\Debug\HorizontalTabControl.exe.config
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\bin\Debug\HorizontalTabControl.exe
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\bin\Debug\HorizontalTabControl.pdb
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.AssemblyReference.cache
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\MainWindow.g.cs
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\Tab\HorizontalTab.g.cs
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\App.g.cs
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl_MarkupCompile.cache
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl_MarkupCompile.lref
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\MainWindow.baml
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\Tab\HorizontalTab.baml
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.g.resources
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.Properties.Resources.resources
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.GenerateResource.cache
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.exe
+C:\Users\Zeeshan Adeeb\Downloads\HorizontalTabControl\obj\Debug\HorizontalTabControl.pdb
+D:\HorizontalTabControl_new\bin\Debug\HorizontalTabControl.exe.config
+D:\HorizontalTabControl_new\bin\Debug\HorizontalTabControl.exe
+D:\HorizontalTabControl_new\bin\Debug\HorizontalTabControl.pdb
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.csproj.AssemblyReference.cache
+D:\HorizontalTabControl_new\obj\Debug\Tab\HorizontalTab.baml
+D:\HorizontalTabControl_new\obj\Debug\MainWindow.g.cs
+D:\HorizontalTabControl_new\obj\Debug\Tab\HorizontalTab.g.cs
+D:\HorizontalTabControl_new\obj\Debug\App.g.cs
+D:\HorizontalTabControl_new\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl_MarkupCompile.cache
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl_MarkupCompile.lref
+D:\HorizontalTabControl_new\obj\Debug\MainWindow.baml
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.g.resources
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.Properties.Resources.resources
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.csproj.GenerateResource.cache
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.csproj.CoreCompileInputs.cache
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.exe
+D:\HorizontalTabControl_new\obj\Debug\HorizontalTabControl.pdb
+D:\HorizontalTabControl\bin\Debug\HorizontalTabControl.exe.config
+D:\HorizontalTabControl\bin\Debug\HorizontalTabControl.exe
+D:\HorizontalTabControl\bin\Debug\HorizontalTabControl.pdb
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.AssemblyReference.cache
+D:\HorizontalTabControl\obj\Debug\Tab\HorizontalTab.baml
+D:\HorizontalTabControl\obj\Debug\MainWindow.g.cs
+D:\HorizontalTabControl\obj\Debug\Tab\HorizontalTab.g.cs
+D:\HorizontalTabControl\obj\Debug\App.g.cs
+D:\HorizontalTabControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl_MarkupCompile.cache
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl_MarkupCompile.lref
+D:\HorizontalTabControl\obj\Debug\MainWindow.baml
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.g.resources
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.Properties.Resources.resources
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.GenerateResource.cache
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.csproj.CoreCompileInputs.cache
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.exe
+D:\HorizontalTabControl\obj\Debug\HorizontalTabControl.pdb
