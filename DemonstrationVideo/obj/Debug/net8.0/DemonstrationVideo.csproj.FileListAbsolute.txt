@@ -1,0 +1,14 @@
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.AssemblyInfoInputs.cache
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.AssemblyInfo.cs
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\bin\Debug\net8.0\DemonstrationVideo.exe
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\bin\Debug\net8.0\DemonstrationVideo.deps.json
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\bin\Debug\net8.0\DemonstrationVideo.runtimeconfig.json
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\bin\Debug\net8.0\DemonstrationVideo.dll
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\bin\Debug\net8.0\DemonstrationVideo.pdb
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.dll
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\refint\DemonstrationVideo.dll
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.pdb
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\DemonstrationVideo.genruntimeconfig.cache
+C:\Users\Zeeshan Adeeb\source\repos\DemonstrationVideo\obj\Debug\net8.0\ref\DemonstrationVideo.dll
